@@ -16,6 +16,8 @@
 #define SPLIT_HAND_PIN GP17
 #define SPLIT_HAND_PIN_LOW_IS_LEFT
 
+#define DYNAMIC_KEYMAP_LAYER_COUNT 5
+
 // Mod tap settings:
 // Left-hand home row mods
 #define HOME_A LGUI_T(KC_A)
